@@ -17,3 +17,4 @@ PyCryptodome
 Cryptography library (ECC)
 
 Matplotlib for visualizations
+
