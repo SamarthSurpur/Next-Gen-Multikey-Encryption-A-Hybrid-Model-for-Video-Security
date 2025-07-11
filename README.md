@@ -18,3 +18,11 @@ Cryptography library (ECC)
 
 Matplotlib for visualizations
 
+##  Results
+
+The graph below shows:
+- Time per chunk for encryption and decryption
+- Cumulative processing time
+- Total processing time comparison
+
+![Encryption and Decryption Results](./input_video.mp4_graph_output.png)
